@@ -1,4 +1,5 @@
 # 📈 Energy Consumption Forecasting in Indonesia
+[![DOI](https://zenodo.org/badge/1206693098.svg)](https://doi.org/10.5281/zenodo.19492753)
 
 Time series forecasting implementation for energy consumption analysis in Indonesia, combining deep learning and statistical approaches.
 
